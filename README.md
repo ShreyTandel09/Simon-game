@@ -1,2 +1,2 @@
-# my-story
+# Simon game
 Simon game challege
